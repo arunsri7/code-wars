@@ -17,7 +17,7 @@ let expandedForm = (num) => {
     return num.join(' + ')
   }
   
-  //Function to remove 
+  //Function to remove all zeroes
   let removeZeroes = (array) => { 
     return array.filter((i) => i !== '0');
   }
