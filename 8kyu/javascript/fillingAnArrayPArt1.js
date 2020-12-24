@@ -1,0 +1,1 @@
+const arr = N => !N ? [] : Array.from(Array(N).keys())
