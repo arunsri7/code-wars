@@ -1,3 +1,3 @@
-# code-wars
+## code-wars
 
-Code wars kata solutions
+Code wars kata solutions 
